@@ -8,5 +8,6 @@ namespace Herramienta_Colaborativa
 {
     class Sistema
     {
+        //xcosa
     }
 }
